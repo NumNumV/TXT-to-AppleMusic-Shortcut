@@ -30,4 +30,4 @@ C. Limitations:
   - Avoid using special characters in the inputs (as the failure rate will increase).
     
 D. Success rates:
-  - Based on a good quality file of 1000 songs/artists: 93% success, 3% fail, 4% false positive (wrong song added).
+  - Based on a good quality file of 1000 songs/artists: 94% success, 3% fail, 3% false positive (wrong song added).
