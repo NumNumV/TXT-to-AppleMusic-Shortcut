@@ -9,13 +9,14 @@ A. Needed:
   - List of songs in TXT format
     
 B. How to use:
-  1. Get a list of songs/artists in TXT format.
-  2. Run the shortcut on iOS.
-  3. Select your playlist or choose "create new playlist."
-  4. Paste your TXT content in the input field.
-  5. Wait... This can take a while depending on the quantity of songs (approximately 2 seconds per song on average).
+  1. Download and add shortcut
+  2. Get a list of songs/artists in TXT format.
+  3. Run the shortcut on iOS.
+  4. Select your playlist or choose "create new playlist."
+  5. Paste your TXT content in the input field.
+  6. Wait... This can take a while depending on the quantity of songs (approximately 2 seconds per song on average).
       --> You can monitor the progress in Apple Music by clicking on your playlist.
-  6. Done! You will receive a notification when the playlist is finished.
+  7. Done! You will receive a notification when the playlist is finished.
       --> Review the report to see which songs were successfully transferred.
      
 C. Limitations:
