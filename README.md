@@ -19,7 +19,7 @@ B. How to use:
   2. Get a list of songs/artists in TXT format (follow sample in repo).
   4. Run the shortcut on iOS.
   5. Select your playlist or choose "create new playlist."
-  6. Paste your TXT content in the input field.
+  6. Paste your TXT content in the input field. Avoid empty lines and special characters!
   7. Wait... This can take a while depending on the quantity of songs (approximately 2 seconds per song on average).
       --> You can monitor the progress in Apple Music by clicking on your playlist.
   8. Done! You will receive a notification when the playlist is finished.
