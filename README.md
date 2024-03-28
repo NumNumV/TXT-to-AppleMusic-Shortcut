@@ -1,13 +1,13 @@
 # TXT-to-AppleMusic-Playlist Shortcut
 
-FREE AND UNLIMITED TOOL TO IMPORT YOUR PLAYLISTS TO APPLE MUSIC
+`FREE AND UNLIMITED TOOL TO IMPORT YOUR PLAYLISTS TO APPLE MUSIC`
 
 This repository is about an Apple shortcut that converts a TXT file/text into an Apple Music Playlist !
 
   -  Complete tutorial avaible on the Wiki : https://github.com/NumNumV/TXT-to-AppleMusic-Shortcut/wiki \
-  -  Tutorial to transfer your Spotify playlists with this shortcut : (check https://github.com/NumNumV/TXT-to-AppleMusic-Shortcut/wiki).
+  -  Tutorial to transfer your `Spotify playlists` with this shortcut : (check https://github.com/NumNumV/TXT-to-AppleMusic-Shortcut/wiki).
 
-`DISCLAIMER: USE AT YOUR OWN RISK. RESULTS DEPEND ON THE QUALITY OF THE TEXT INPUT. THERE IS NO WARRANTY ON RESULTS, AND ERRORS CAN OCCUR`
+_`DISCLAIMER: USE AT YOUR OWN RISK. RESULTS DEPEND ON THE QUALITY OF THE TEXT INPUT. THERE IS NO WARRANTY ON RESULTS, AND ERRORS CAN OCCUR`_
 
 A. Needed:
   - iOS or MacOS device that supports shortcuts
