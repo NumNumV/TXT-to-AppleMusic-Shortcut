@@ -16,13 +16,7 @@ A. Requirements:
     
 B. How to use:
   1. Download and add shortcut
-  2. Get a list of songs/artists in TXT format. \
-      Example: \
-         _`Never Going Home Kungs \
-         Clap your hands Kungs \
-         Blue Jeans Lana del rey \
-         Summertime Sadness \
-         Emorio`_
+  2. Get a list of songs/artists in TXT format (follow sample in repo).
   4. Run the shortcut on iOS.
   5. Select your playlist or choose "create new playlist."
   6. Paste your TXT content in the input field.
