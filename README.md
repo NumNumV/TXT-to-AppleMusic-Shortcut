@@ -9,6 +9,11 @@ This repository is about an Apple shortcut that converts a TXT file/text into an
 
 _`DISCLAIMER: USE AT YOUR OWN RISK. RESULTS DEPEND ON THE QUALITY OF THE TEXT INPUT. THERE IS NO WARRANTY ON RESULTS, AND ERRORS CAN OCCUR`_
 
+https://github.com/NumNumV/TXT-to-AppleMusic-Shortcut/assets/75941535/e443241e-603a-4405-8a66-ea8536071321
+
+
+# Tutorial:
+
 A. Requirements:
   - iOS or MacOS device that supports shortcuts
   - Apple Music App installed with a premium subscription
