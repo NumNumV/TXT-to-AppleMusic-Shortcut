@@ -9,7 +9,7 @@ This repository is about an Apple shortcut that converts a TXT file/text into an
 
 _`DISCLAIMER: USE AT YOUR OWN RISK. RESULTS DEPEND ON THE QUALITY OF THE TEXT INPUT. THERE IS NO WARRANTY ON RESULTS, AND ERRORS CAN OCCUR`_
 
-A. Needed:
+A. Requirements:
   - iOS or MacOS device that supports shortcuts
   - Apple Music App installed with a premium subscription
   - List of songs in TXT format
