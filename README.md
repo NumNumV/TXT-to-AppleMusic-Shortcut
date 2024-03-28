@@ -1,4 +1,4 @@
-# TXT-to-AppleMusic-Playlist
+# TXT-to-AppleMusic-Playlist Shortcut
 This repository is about an Apple shortcut that converts a TXT file/text into an Apple Music Playlist.
 
 DISCLAIMER: USE AT YOUR OWN RISK. RESULTS DEPEND ON THE QUALITY OF THE TEXT INPUT. THERE IS NO WARRANTY ON RESULTS, AND ERRORS CAN OCCUR.
@@ -19,7 +19,7 @@ B. How to use:
       --> Review the report to see which songs were successfully transferred.
      
 C. Limitations:
-  - Avoid adding more than 1000 songs at once.
+  - Avoid adding more than 1000 songs at once (waiting time will increase).
   - Avoid using special characters in the inputs (as the failure rate will increase).
     
 D. Success rates:
