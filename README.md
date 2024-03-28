@@ -17,12 +17,18 @@ A. Requirements:
 B. How to use:
   1. Download and add shortcut
   2. Get a list of songs/artists in TXT format.
-  3. Run the shortcut on iOS.
-  4. Select your playlist or choose "create new playlist."
-  5. Paste your TXT content in the input field.
-  6. Wait... This can take a while depending on the quantity of songs (approximately 2 seconds per song on average).
+      Example:
+         _`Never Going Home Kungs
+         Clap your hands Kungs
+         Blue Jeans Lana del rey
+         Summertime Sadness
+         Emorio`_
+  4. Run the shortcut on iOS.
+  5. Select your playlist or choose "create new playlist."
+  6. Paste your TXT content in the input field.
+  7. Wait... This can take a while depending on the quantity of songs (approximately 2 seconds per song on average).
       --> You can monitor the progress in Apple Music by clicking on your playlist.
-  7. Done! You will receive a notification when the playlist is finished.
+  8. Done! You will receive a notification when the playlist is finished.
       --> Review the report to see which songs were successfully transferred.
      
 C. Limitations:
